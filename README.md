@@ -30,6 +30,3 @@ These days, I’m:
 ## 📈 GitHub Stats
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SchwarSaMa&layout=compact)
 
-## 📧 Connect with Me
-[![Email Me](https://img.shields.io/badge/Email-Click%20to%20view-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/SchwarSaMa) - checkout my Profile
-
